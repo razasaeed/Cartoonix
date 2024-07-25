@@ -64,7 +64,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Screenshots
 
-![Cartoonix Screenshot](screenshot.png)
+<table>
+  <tr>
+    <td align="center"><b>Original Image</b></td>
+    <td align="center"><b>Cartoonized Image</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="original_image.png" alt="Original Image" width="300"/></td>
+    <td align="center"><img src="cartoonized_image.png" alt="Cartoonized Image" width="300"/></td>
+  </tr>
+</table>
 
 ## Authors
 
