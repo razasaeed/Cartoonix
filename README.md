@@ -2,7 +2,7 @@
 
 Cartoonix is an Android application that uses a TensorFlow Lite model to transform regular images into cartoon-style images. Built with Kotlin, this app demonstrates the implementation and use of machine learning models on mobile devices.
 
-# ![Cartoonix Logo](logo.png)
+# ![Cartoonix Logo](logo2.png)
 
 ## Features
 
