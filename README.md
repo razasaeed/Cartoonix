@@ -80,6 +80,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Authors
 
 - [Raza Saeed](https://github.com/razasaeed)
+- [Muhammad Arsalan](https://github.com/ArsalTech)
 
 ## Acknowledgments
 
